@@ -93,7 +93,6 @@ constructor(props) {
 ```
 
 ```jsx
-this.setState({ username: 'rstacruz' })
 ```
 
 ```jsx

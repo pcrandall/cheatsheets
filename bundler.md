@@ -23,8 +23,6 @@ category: Ruby
 
 ### Github support
 
-    gem 'hello', github: 'rstacruz/hello'
-    gem 'hello', github: 'rstacruz/hello', 'branch: master'
 
 ### Grouping
 
@@ -40,7 +38,6 @@ category: Ruby
 
 In your Gemfile, define a Git source and a branch:
 
-    gem 'hello', github: 'rstacruz/hello', branch: 'master'
 
 And then:
 

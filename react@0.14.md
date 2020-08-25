@@ -62,9 +62,7 @@ Nest components to separate concerns. See [multiple components](http://facebook.
   this.props.fullscreen //=> true
 
 // state
-  this.setState({ username: 'rstacruz' });
   this.replaceState({ ... });
-  this.state.username //=> 'rstacruz'
 ```
 
 ```js
