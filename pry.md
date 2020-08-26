@@ -1,5 +1,6 @@
 ---
 title: Pry
+layout: 2017/sheet
 category: Ruby libraries
 ---
 

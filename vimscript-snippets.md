@@ -1,5 +1,6 @@
 ---
 title: Vimscript snippets
+layout: 2017/sheet
 category: Vim
 ---
 

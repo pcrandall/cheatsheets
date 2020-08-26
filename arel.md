@@ -1,6 +1,7 @@
 ---
 title: Arel
 category: Rails
+layout: 2017/sheet
 ---
 
 ### Tables
@@ -41,7 +42,7 @@ users.joins(:photos)
 In Arel, if `photos` is defined as the Arel table,
 ```rb
 photos = Photo.arel_table
-users.join(photos) 
+users.join(photos)
 users.join(photos, Arel::Nodes::OuterJoin).on(users[:id].eq(photos[:user_id]))
 ```
 

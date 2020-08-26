@@ -1,6 +1,7 @@
 ---
 title: Applinks
 category: HTML
+layout: 2017/sheet
 ---
 
 

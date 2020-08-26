@@ -1,5 +1,6 @@
 ---
 title: Browserify
+layout: 2017/sheet
 category: JavaScript libraries
 ---
 

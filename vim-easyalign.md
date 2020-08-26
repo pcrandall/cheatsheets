@@ -1,5 +1,6 @@
 ---
 title: Vim Easyalign
+layout: 2017/sheet
 html_class: key-codes
 hljs_languages: [vim]
 category: Vim

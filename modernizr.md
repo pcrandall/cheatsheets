@@ -1,5 +1,6 @@
 ---
 title: Modernizr
+layout: 2017/sheet
 category: JavaScript libraries
 ---
 

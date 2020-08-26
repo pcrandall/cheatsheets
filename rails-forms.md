@@ -1,5 +1,6 @@
 ---
 title: Form helpers
+layout: 2017/sheet
 hljs_languages: [haml]
 category: Rails
 ---

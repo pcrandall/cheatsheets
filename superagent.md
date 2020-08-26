@@ -1,5 +1,6 @@
 ---
 title: Superagent
+layout: 2017/sheet
 category: JavaScript libraries
 updated: 2018-04-21
 prism_languages: [javascript]

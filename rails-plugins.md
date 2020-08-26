@@ -1,5 +1,6 @@
 ---
 title: Rails plugins
+layout: 2017/sheet
 category: Rails
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Make for assets
+layout: 2017/sheet
 hljs_languages: [makefile]
 ---
 

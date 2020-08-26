@@ -1,5 +1,6 @@
 ---
 title: Devise
+layout: 2017/sheet
 ---
 
 [Devise](https://github.com/plataformatec/devise) is a flexible authentication 

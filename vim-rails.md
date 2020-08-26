@@ -1,5 +1,6 @@
 ---
 title: Vim-rails
+layout: 2017/sheet
 category: Vim
 html_class: key-codes
 ---

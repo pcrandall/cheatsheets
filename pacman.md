@@ -1,5 +1,6 @@
 ---
 title: Pacman
+layout: 2017/sheet
 category: Linux
 updated: 2018-07-07
 intro: |

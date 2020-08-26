@@ -1,5 +1,6 @@
 ---
 title: Divshot
+layout: 2017/sheet
 ---
 
 ## Getting started

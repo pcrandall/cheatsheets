@@ -1,5 +1,6 @@
 ---
 title: Sinon-chai
+layout: 2017/sheet
 category: JavaScript libraries
 layout: default-ad
 ---

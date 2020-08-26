@@ -1,5 +1,9 @@
 <h1 align='center'>Devhints</h1>
 
+<p align='center'>
+Fork of https://github.com/rstacruz/cheatsheets
+</p>
+
 <blockquote align='center'>
 TL;DR for developer documentation - a ridiculous collection of cheatsheets
 </blockquote>

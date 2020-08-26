@@ -1,5 +1,6 @@
 ---
 title: Rails tricks
+layout: 2017/sheet
 category: Rails
 ---
 

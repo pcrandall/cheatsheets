@@ -1,5 +1,6 @@
 ---
 title: CircleCI
+layout: 2017/sheet
 category: Devops
 ---
 

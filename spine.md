@@ -1,5 +1,6 @@
 ---
 title: Spine
+layout: 2017/sheet
 category: JavaScript libraries
 vim: ft=python
 ---

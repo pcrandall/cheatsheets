@@ -1,6 +1,7 @@
 ---
 title: Angular.js
 category: JavaScript libraries
+layout: 2017/sheet
 ---
 ```html
     <html ng-app="nameApp">

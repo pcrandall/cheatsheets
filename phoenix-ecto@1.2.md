@@ -1,5 +1,6 @@
 ---
 title: "Phoenix: Ecto models"
+layout: 2017/sheet
 category: Elixir
 deprecated: true
 ---

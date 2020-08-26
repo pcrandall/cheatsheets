@@ -1,5 +1,6 @@
 ---
 title: Git tricks
+layout: 2017/sheet
 category: Git
 ---
 
