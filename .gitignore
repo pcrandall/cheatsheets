@@ -9,5 +9,5 @@ _site
 /_includes/2017/critical/*
 /assets/packed/*
 layout.sh
-.cache/
+.cache/*
 server.py
