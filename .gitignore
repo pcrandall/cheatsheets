@@ -10,5 +10,4 @@ _site
 /assets/packed/*
 layout.sh
 .cache/
-server.py
 /_site
